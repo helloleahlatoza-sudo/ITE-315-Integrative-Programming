@@ -1,0 +1,1 @@
+A 401 Unauthorized status occurs when someone tries to access a secured endpoint without a valid access token. On the other hand, a 200 OK response confirms successful authentication and allows the user to view their profile information. When the user logs out, their token is revoked, preventing them from accessing protected resources again using that token.
